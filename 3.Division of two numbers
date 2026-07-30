@@ -1,7 +1,7 @@
 public class Divisionof2numbers {
 public static void main(String[] args) {
         int a = 50;
-        int b = 5;
+        int b = 3;
 
         int result = a / b;
 
