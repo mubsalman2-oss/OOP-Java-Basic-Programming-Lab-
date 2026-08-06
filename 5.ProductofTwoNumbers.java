@@ -1,4 +1,4 @@
-public class Fifthtask {
+public class ProductofTwoNumbers {
      public static void main(String[] args){
         int first_number= 25;
         int second_number=5;
